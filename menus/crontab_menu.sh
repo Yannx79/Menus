@@ -4,6 +4,10 @@
 # By: Yannick Funes
 # Datetime: 07/03/2023
 # 
+# Script: /scripts/collect_file_information.sh*
+# Script: /scripts/collect_system_information.sh*
+# Script: /scripts/get_access_logs.sh*
+
 
 title="Crontab Menu"
 description="This script manages cron jobs on a Linux system. It provides a menu-driven interface for users to interact with cron tasks."  
