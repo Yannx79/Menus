@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
 # By: Yannick Funes
 # Datetime: 13/03/2023
 # https://youtu.be/GzsJT6ix-MI
